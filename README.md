@@ -27,3 +27,6 @@ https://www.notionhub.app/docs/weread2notion.html
 如果你想获取后续更新，或了解更多 Notion 自动化工具，欢迎关注公众号：**Notion自动化**。
 
 ![公众号：Notion自动化](https://cdn.notionhub.app/notionhub/gzh.jpg)
+
+
+<!-- Security scan triggered at 2026-10-07 11:01:13 -->
